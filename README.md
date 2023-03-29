@@ -36,7 +36,7 @@ Para utilizar o Dashboard, siga os passos abaixo:
 1. Clone o repositório em sua máquina:
 
 ```
-https://github.com/thiagomorini/dashboard-covid-19.git
+git clone https://github.com/thiagomorini/dashboard-covid-19.git
 ```
 
 2. Execute o arquivo app.py:
